@@ -1,3 +1,4 @@
 activate
 algorithm
 .git
+*.ipynb_checkpoints
